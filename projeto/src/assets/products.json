@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Electron",
+        "price":85,
+        "imageUrl":"https://cdn.mos.cms.futurecdn.net/rSTi4XGfgv9HWtH9M9U8uf-320-80.jpg",
+        "imageAlt":"Foguete preto, SpaceX"
+    },
+    {
+        "id":2,
+        "name":"Vega",
+        "price":90,
+        "imageUrl":"https://www.arianespace.com/wp-content/uploads/2018/08/VegaC_inside-2.jpg",
+        "imageAlt":"Foguete Branco, Avio"
+    },
+    {
+        "id":3,
+        "name":"Antares",
+        "price":100,
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Cropped_NG-11_Launch.jpg",
+        "imageAlt":"Foguete Branco, Northrop grumman"
+    },
+    {
+        "id":4,
+        "name":"Space Shuttle",
+        "price":300,
+        "imageUrl":"https://images.csmonitor.com/csmarchives/2010/05/0526-space-shuttle-atlantis.jpg?alias=standard_900x600",
+        "imageAlt":"Onubus espacial"
+    },
+    {
+        "id":5,
+        "name":"n1 rocket",
+        "price":170,
+        "imageUrl":"https://i.ytimg.com/vi/4hZ5Ep06TTk/maxresdefault.jpg",
+        "imageAlt":"Foguete em formato de cone"
+    },
+    {
+        "id":6,
+        "name":"BFR",
+        "price":350,
+        "imageUrl":"https://www.teslarati.com/wp-content/uploads/2018/07/BFR-03c.jpg",
+        "imageAlt":"Foguete SpaceX"
+    }
+]
